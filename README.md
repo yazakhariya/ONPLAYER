@@ -12,7 +12,7 @@
 ## Для начала работы необходимо:
 1. Сохранить проект локально: 
 ```bash
-git clone https://github.com/yazakhariya/Onplayer
+git clone https://github.com/yazakhariya/ONPLAYER.git
 ```  
 2. Ввести в консоли команду 
 ```bash 
